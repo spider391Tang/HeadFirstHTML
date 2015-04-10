@@ -29,3 +29,6 @@
 
 # Vim
 *.swp
+
+# mac temp files
+.DS_Store
