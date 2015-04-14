@@ -14,6 +14,17 @@ p {
     color: maroon;
 }
 
+p.greentea {
+    color: green;
+}
+
+p.raspberry {
+    color: blue;
+}
+
+p.blueberry {
+    color: purple;
+}
 
 em {
     font-family: serif;
